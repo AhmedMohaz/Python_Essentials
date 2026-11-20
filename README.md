@@ -2,7 +2,7 @@
 
 This repository contains a cleaned, consolidated implementation of the scientific-computing work in the supplied report. The Python source includes the numerical method, parameter-sensitivity, real-world adaptation, and visualization work for Tasks 1–20.
 
-> **Source note:** The supplied DOCX contained several OCR/line-wrap errors in code blocks. The source file below preserves the mathematical intent and reported examples while correcting syntax, indentation, deprecated calls, and inconsistent task numbering so that it can be executed as one reproducible program.
+
 
 ## Files
 
@@ -10,7 +10,7 @@ This repository contains a cleaned, consolidated implementation of the scientifi
 
 - `graphs/` — created automatically when the Python file is run; it contains PNG figures for the numerical results.
 
-- [`scientific_computing_graphs.zip`](scientific_computing_graphs.zip) — upload-ready archive containing the complete `graphs/` folder and all generated PNG files.
+
 
 ## Setup and execution
 
