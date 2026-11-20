@@ -1,6 +1,6 @@
-# BIT 2118 Scientific Computing — 
+# BIT 2118 Scientific Computing 
 
-This repository contains a cleaned, consolidated implementation of the scientific-computing work in the supplied report. The Python source includes the numerical method, parameter-sensitivity, real-world adaptation, and visualization work for Tasks 1–20.
+This repository contains a cleaned, consolidated implementation of the scientific-computing work in the supplied report. The Python source includes the numerical method, parameter-sensitivity, real-world adaptation, and visualization work .
 
 
 
