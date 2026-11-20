@@ -26,12 +26,11 @@ Run all tasks from the directory containing the Python file:
 python BIT2118_Python_Codes_Tasks_01_to_20.py
 ```
 
-The program prints representative numerical results and writes graph files to `graphs/`. The script uses a fixed random seed where random simulation is required, so the Monte Carlo result is reproducible.
+The program prints representative numerical results and writes graph files to graphs. The script uses a fixed random seed where random simulation is required, so the Monte Carlo result is reproducible.
 
 ## Actual graph images
 
-The following figures are the actual generated PNG files. Every PNG currently produced by the Python file is included below. Keep them in a folder named `graphs/` at the repository root so the links continue to work on GitHub. If uploading individually is inconvenient, extract [`scientific_computing_graphs.zip`](scientific_computing_graphs.zip) at the repository root.
-
+The following figures are the actual generated PNG files. Every PNG currently produced by the Python file is included below.
 ### Tasks 1–5
 
 ![Task 1: hourly temperature](https://private-us-east-1.manuscdn.com/sessionFile/zHRHKqgdj0VQRVkVX4B47m/sandbox/8xjZBpqFnGp8gHcVoth2tx-images_1795205859858_na1fn_L2hvbWUvdWJ1bnR1L2dyYXBocy90YXNrXzAxX3RlbXBlcmF0dXJl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvekhSSEtxZ2RqMFZRUlZrVlg0QjQ3bS9zYW5kYm94Lzh4alpCcHFGbkdwOGdIY1ZvdGgydHgtaW1hZ2VzXzE3OTUyMDU4NTk4NThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyZHlZWEJvY3k5MFlYTnJYekF4WDNSbGJYQmxjbUYwZFhKbC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTcyOTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCz0Ah3N~rFxWDjKIuIE-pPfohDgdiSXOEtaA9q2OP-LAIgTGkfr7Yfj6urUIdcsQ-1YLy0TPT8JYst2AAk~NNwUrM_)
